@@ -1,0 +1,12 @@
+body {
+    background-color:rosybrown;}
+img {border-style:double}
+img {border-color: #f5f5dc;}
+H1 {color:beige}
+H2 {color:#a52a2a}
+h3 {color:whitesmoke;
+text-shadow: 2px 2px 4px #000;}
+h2 {color:#a52a2a;
+    text-shadow: 2px 2px 4px #fff;}
+h1 {text-align: center;}
+h2 {text-align: center;}
